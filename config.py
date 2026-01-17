@@ -2,30 +2,30 @@ import os
 
 class Config(object):
     # Telegram Bot ka token
-    BOT_TOKEN = "7633623049:AAHGTUUXAqwoRrhh0y04vbz56TrlOdKm2GA"
+    BOT_TOKEN = "8338892359:AAFQ9LctB2s_Efp3ULPLdW9RvOVFCHYWIHg8338892359:AAFQ9LctB2s_Efp3ULPLdW9RvOVFCHYWIHg"
     # Telegram API ki ID
-    API_ID = 21157244
+    API_ID = 35822069
     # Telegram API k
-    API_HASH = "4981c2699bd91c7db836ec8f77e5b0f0"
-    ADMIN_ID = 1783306092[]
+    API_HASH = "35cea1c5e6384f57e914ac982ff5ffd1"
+    ADMIN_ID = 5938871512
     # MongoDB database ka URL
-    DB_URL = "mongodb+srv://takkishor9784:gG73juoh44MnvJEZ@cluster0.q8hxdk2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    DB_URL = "mongodb+srv://princepia161_db_user:KZWhQUyEe59dF1jh@cluster0.uhoxe0h.mongodb.net/?appName=Cluster0"
     # Database ka naam
-    DB_NAME = "takkishor9784"
+    DB_NAME = "princepiaxx_bot"
     # Text log channel ki ID
     TXT_LOG = -1002758652479
     # Authentication log channel ki ID
-    AUTH_LOG = -1002758652479
+    AUTH_LOG = -1003529814222
     # Hit log channel ki ID
-    HIT_LOG = -1002758652479
+    HIT_LOG = -1003529814222
     # DRM dump channel ki ID
-    DRM_DUMP = -1002758652479
+    DRM_DUMP = -1003529814222
     # Main channel ki ID
-    CHANNEL = -1002758652479
+    CHANNEL = -1003529814222
     # Channel ka link
-    CH_URL = "https://t.me/+7cT_jriPXmgwOTJl"
+    CH_URL = "https://t.me/princepia"
     # Bot ke owner ka Telegram link
-    OWNER = "https://t.me/bosch12345o"
+    OWNER = "https://princepia"
     # Thumbnail image ka URL
     THUMB_URL = "https://telegra.ph/file/example-thumb-image.jpg" #Replace by with your Thumb URL
     # API host ka URL
